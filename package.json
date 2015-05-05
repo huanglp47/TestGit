@@ -1,0 +1,22 @@
+{
+  "name": "nodeDemo2",
+  "version": "0.0.1",
+  "description": "hehello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ddd"
+  },
+  "keywords": [
+    "ddddfdf"
+  ],
+  "author": "hlp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3",
+    "utility": "^1.3.1"
+  }
+}
